@@ -1,0 +1,14 @@
+.nothing__main-context {
+  align-items: center;
+  background-color: $primary;
+  color: white;
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+  width: 70vw;
+  overflow-x: hidden;
+
+  p {
+    text-align: center;
+  }
+}
