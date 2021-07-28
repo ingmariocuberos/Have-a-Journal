@@ -9,7 +9,7 @@ import { removeError, setError } from '../../actions/error';
 export const LoginScreen = () => {
 
     const initialForm = {
-        email: 'nando@gmail.com',
+        email: 'undefined@gmail.com',
         password: '123456'
     };
     
